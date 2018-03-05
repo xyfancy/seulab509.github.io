@@ -1,4 +1,4 @@
-<iframe src="https://skydrive.live.com/embed?cid=8B504C1595CD3973&amp;resid=8B504C1595CD3973%2126382&amp;authkey=AJzDcN30q6g4W0Y&amp;em=2" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=100002&type=4&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
 
 ## <center>欢迎来到东南大学计算机系统结构实验室</center >
 ---
