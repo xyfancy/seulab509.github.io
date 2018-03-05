@@ -1,5 +1,3 @@
-<embed src="//music.163.com/style/swf/widget.swf?sid=100002&type=4&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
-
 ## <center>欢迎来到东南大学计算机系统结构实验室</center >
 ---
 ### 实验室简介
@@ -13,3 +11,5 @@
 * [导师信息](https://seulab509.github.io/source/supervisor)  
 * [成果展示](https://seulab509.github.io/source/achievement)  
 * [毕业校友去向](https://seulab509.github.io/source/graduate) 
+
+<embed src="//music.163.com/style/swf/widget.swf?sid=101218&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
