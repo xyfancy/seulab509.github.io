@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## <center>欢迎来到东南大学计算机系统结构实验室</center >
+---
+### 实验室简介
 
-You can use the [editor on GitHub](https://github.com/seulab509/seulab509.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+东南大学计算机系统结构实验室目前主要研究异构多核架构，智能交通算法及硬件化。欢迎大家咨询交流！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### 目录
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seulab509/seulab509.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [发展历史]()  
+* [导师信息]()  
+* [竞赛获奖]()  
+* [科研项目]()  
+* [实验室建设]()  
+* [现有成员信息]()  
+* [毕业校友去向]()  
+* [联系方式]()  
