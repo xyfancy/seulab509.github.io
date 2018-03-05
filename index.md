@@ -8,6 +8,6 @@
 
 ### 目录
 
-* [导师信息](https://github.com/seulab509/seulab509.github.io/blob/master/supervisor.md)  
+* [导师信息](https://seulab509.github.io/supervisor.md)  
 * [竞赛获奖]()  
 * [毕业校友去向]() 
