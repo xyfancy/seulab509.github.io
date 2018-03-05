@@ -9,5 +9,5 @@
 ### 目录
 
 * [导师信息](https://seulab509.github.io/supervisor)  
-* [竞赛获奖]()  
-* [毕业校友去向]() 
+* [成果展示](https://seulab509.github.io/achievement)  
+* [毕业校友去向](https://seulab509.github.io/graduate) 
