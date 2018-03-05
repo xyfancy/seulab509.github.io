@@ -12,4 +12,4 @@
 * [成果展示](https://seulab509.github.io/source/achievement)  
 * [毕业校友去向](https://seulab509.github.io/source/graduate) 
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=101218&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=101218&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
