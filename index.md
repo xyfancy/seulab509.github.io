@@ -8,6 +8,6 @@
 
 ### 目录
 
-* [导师信息](https://seulab509.github.io/supervisor)  
-* [成果展示](https://seulab509.github.io/achievement)  
-* [毕业校友去向](https://seulab509.github.io/graduate) 
+* [导师信息](https://seulab509.github.io/source/supervisor)  
+* [成果展示](https://seulab509.github.io/source/achievement)  
+* [毕业校友去向](https://seulab509.github.io/source/graduate) 
