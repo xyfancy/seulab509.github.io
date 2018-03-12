@@ -7,22 +7,22 @@
   url: "/"
   dropdown:
   - title: "研究方向"
-    url: "/lab/type/"
+    url: "/labinfo/type/"
   - title: "研究室资源"
-    url: "/lab/sub/"
+    url: "/labinfo/res/"
 
 - title: 导师信息
   side: left
   url: "/"
   dropdown:
   - title: "杨全胜"
-    url: "/supervisor/yqs/"
+    url: "/supervisor/yang/"
   - title: "徐造林"
-    url: "/supervisor/xzl/"
+    url: "/supervisor/xu/"
 
 - title: 新闻动态
   side: left
-  url: "/posts/"
+  url: "/blog/"
 
 - title: 课程介绍
   side: left
@@ -35,10 +35,7 @@
   
 - title: 就业情况
   side: left
-  url: "/"
-  dropdown:
-  - title: "毕业去向一览"
-    url: "/graduate/company/"
+  url: "/graduate/"
 
 - title: 联系我们
   side: left

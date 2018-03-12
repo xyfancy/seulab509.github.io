@@ -1,0 +1,18 @@
+---
+layout: page
+title:  联系我们
+permalink: /contact/
+---
+
+如果您想进一步了解我们团队,或者对加入我们团队有兴趣,请按照下面的联系方式联系我们:
+
+
+* 邮箱:  **yangqs@seu.edu.cn**
+
+* 公众号: 微信搜索"**CDPE**"或者扫描二维码
+
+![CDPE](/WebPage/assets/img/CDPE.jpg)
+
+
+
+
