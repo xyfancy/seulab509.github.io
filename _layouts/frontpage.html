@@ -31,6 +31,24 @@ format: frontpage
 	{% endif %}
 </div><!-- /.row -->
 
+{% comment %}
+*
+* 
+× 自定义：添加一个用于显示text的div
+*
+{% endcomment %}
+
+<div class="row t60">
+	{% if page.homeDescription %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+        <p><font size="5" face="arial">实验室简介</p>
+		    {{ page.homeDescription.text}}
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+	{% endif %}
+</div><!-- /.row -->
+
 
 
 {% comment %}
@@ -60,6 +78,11 @@ format: frontpage
 {% endcomment %}
 
 {% unless site.posts == empty %}
+
+    
+
+
+
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
@@ -79,7 +102,7 @@ format: frontpage
             {% endfor %}
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
-
+    
 
     <div class="row">
         <div class="medium-6 columns">
@@ -109,5 +132,7 @@ format: frontpage
 {% endcomment %}
 
 <div class="row">
+   
     {{ content }}
+   
 </div><!-- /.row -->
