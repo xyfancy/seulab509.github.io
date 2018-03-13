@@ -3,7 +3,7 @@ layout: page
 permalink: /courses/system/
 header: no
 image:
-    title: courses/system.png
+    title: courses/system.jpg
 ---
 
 ### 计算机系统综合课程设计
