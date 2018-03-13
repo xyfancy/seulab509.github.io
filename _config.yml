@@ -17,7 +17,12 @@ slogan: '定义你的未来'
 description: '»本网站是东南大学计算机系统结构研究室主页,由东南大学计算机系统结构研究室负责更新和维护'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by lab509 .</p>'
+info: '<p>Created with &hearts; by lab509 with Jekyll based on Feeling Responsive.</p>'
+
+
+credits: '<p>CopyRight 2018 东南大学计算机科学与工程学院--计算机系统结构研究室<br>
+		 江苏省南京市江宁区东南大学路2号东南大学九龙湖校区计算机楼5楼<br>
+		 邮编:211189</p>'
 
 # Main author of the website
 # See > authors.yml
