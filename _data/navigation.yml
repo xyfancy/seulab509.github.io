@@ -4,7 +4,7 @@
 
 - title: 研究室介绍
   side: left
-  url: "/"
+  url: "/labinfo/type/"
   dropdown:
   - title: "研究方向"
     url: "/labinfo/type/"
@@ -13,12 +13,12 @@
 
 - title: 导师信息
   side: left
-  url: "/"
+  url: "/supervisor/yang/"
   dropdown:
   - title: "杨全胜"
     url: "/supervisor/yang/"
   - title: "徐造林"
-    url: "/supervisor/xu/"
+    url: "/"
 
 - title: 新闻动态
   side: left
@@ -26,7 +26,7 @@
 
 - title: 课程介绍
   side: left
-  url: "/"
+  url: "/courses/io/"
   dropdown:
   - title: "现代微机原理与接口技术"
     url: "/courses/io/"
