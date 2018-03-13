@@ -1,9 +1,14 @@
 ---
 layout: page
-title:  现代微机原理与接口技术
 permalink: /courses/io/
+header: no
+image:
+    title: courses/io.jpg
 ---
 
+### 现代微机原理与接口技术
+
+---
 
  本课程以Pentium系列和酷睿®系列为平台，系统地阐述现代微型计算机的基本结构及其接口技术，内容包括IA-32/Intel 64结构微处理器的基本结构， x86指令及汇编语言程序设计，现代微机的存储系统，总线与DMA技术，中断与异常处理，传统接口技术，IA-32/Intel 64微机的系统编程技术。
 
@@ -16,4 +21,45 @@ permalink: /courses/io/
 * 更加注重实践与创新，增加实践与研讨环节；
 
 * 配套网站提供电子课件和更多的拓展资料
-
+<div id="demo" class="carousel slide" data-ride="carousel">
+ 
+  <!-- 指示符 -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+ 
+  <!-- 轮播图片 -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
+      <div class="carousel-caption">
+    <h3>第一张图片描述标题</h3>
+    <p>描述文字!</p>
+  </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
+      <div class="carousel-caption">
+    <h3>第一张图片描述标题</h3>
+    <p>描述文字!</p>
+  </div>
+    </div>
+    <div class="carousel-item">
+      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
+      <div class="carousel-caption">
+    <h3>第一张图片描述标题</h3>
+    <p>描述文字!</p>
+  </div>
+    </div>
+  </div>
+ 
+  <!-- 左右切换按钮 -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
