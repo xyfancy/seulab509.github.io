@@ -2,8 +2,6 @@
 layout: page
 permalink: /courses/system/
 header: no
-image:
-    title: courses/system.jpg
 ---
 
 ---
@@ -11,6 +9,8 @@ image:
 ### 计算机系统综合课程设计
 
 ---
+
+![](/seulab509.github.io/images/courses/system.jpg)
 
 本课程设计是在本科4年学习的基础上，进行的一次综合性的设计实践。本课程的开设时间是在大四的上学期，同学们经过3年多的学习和实践，无论在理论上还是实践上，在硬件上还是软件上，在系统角度还是应用角度都得到了不少的锻炼。在此基础上，本综合设计从系统设计的角度，通过对SOC（片上系统）的硬、软件设计，给学生一次综合的训练的机会。 本课程借助于SoC设计的思想，在国内首创将计算机硬件设计与系统软件设计综合 到一起，强化了学生从系统角度分析问题和综合运用 能力的培养，符合计算机学科本科生 “面向系统，兼顾应用”的培养目标。
 <div id="demo" class="carousel slide" data-ride="carousel">
