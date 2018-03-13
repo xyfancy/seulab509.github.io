@@ -6,6 +6,8 @@ image:
     title: courses/system.jpg
 ---
 
+---
+
 ### 计算机系统综合课程设计
 
 ---
