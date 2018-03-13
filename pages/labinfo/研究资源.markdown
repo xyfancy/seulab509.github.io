@@ -17,23 +17,19 @@ header:
   <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
   <ul class="am-slides">
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+        	<img src="../../images/labinfo/calab/zynq.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/3</div>基于Zynq的CPU-FGPA层叠架构</div>
          
       </li>
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+        	<img src="../../images/labinfo/calab/intel.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>东南大学-Intel多核技术联合实验室</div>
          
       </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+      
+	<li>
+        	<img src="../../images/labinfo/calab/systemlab.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/3</div>东南大学计算机实验教学中心-计算机系统综合实验室</div>
          
       </li>
   </ul>
@@ -48,23 +44,19 @@ header:
   <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
   <ul class="am-slides">
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+        	<img src="../../images/labinfo/ailab/name.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/3</div>与德晟科技联合设立的人工智能算法与芯片实验室</div>
          
       </li>
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+        	<img src="../../images/labinfo/ailab/chat.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>导师正在与团队成员一起讨论算法进展</div>
          
       </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+      
+	<li>
+        	<img src="../../images/labinfo/ailab/systemlab.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/3</div>初见成效的疲劳检测算法展示</div>
          
       </li>
   </ul>
@@ -74,28 +66,24 @@ header:
 
 ---
 
-该实验室还与美国TI公司合作，建立了数字信号处理方案实验室。本实验室拥有近百台嵌入式实验板，其中包括Minisys,Zedboard以及以Xilinx FPGA芯片为核心的实验板,近百套TI公司的嵌入式实验开发平台。同时,还拥有高精度室内定位模块,Intel Real Sense摄像头等各种传感器。
+该实验室与美国TI公司合作，建立了数字信号处理方案实验室。实验室拥有近百台嵌入式实验板，其中包括Minisys,Zedboard以及以Xilinx FPGA芯片为核心的实验板,近百套TI公司的嵌入式实验开发平台。同时,还拥有高精度室内定位模块,Intel Real Sense摄像头等各种传感器。
 
   <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
   <ul class="am-slides">
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+        	<img src="../../images/labinfo/emlab/SEU_TI.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/3</div>与TI公司合作设立了数字信号处理方案实验室</div>
          
       </li>
       <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+        	<img src="../../images/labinfo/emlab/exam1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>学生正在使用开发板进行相关实验</div>
          
       </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+      
+	<li>
+        	<img src="../../images/labinfo/emlab/exam2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/3</div>小组成员合作解决问题</div>
          
       </li>
   </ul>
@@ -107,6 +95,31 @@ header:
 
 该实验室承担在国内颇有影响的纵横贯通计算系统能力培养课程体系的主要实验，拥有Minisys实验平台，可完成数电,组成课程设计,微型机与接口技术,编译原理的实验。同时,该实验室也是教育部Xilinx产学合作专业综合改革支持项目建立的“计算机系统能力培养示范中心”。
 
+<div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="../../images/labinfo/cslab/minisys.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>本科生基于Minisys平台研发的游戏机</div>
+         
+      </li>
+      <li>
+        	<img src="../../images/labinfo/cslab/exam.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>学生正在进行计算机系统综合课程设计相关实验</div>
+         
+      </li>
+      
+	<li>
+        	<img src="../../images/labinfo/cslab/award.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>实验室在2016OPENHW大会上获得Xilinx颁发的“计算机系统能力培养示范中心”</div>
+         
+      </li>
+	<li>
+        	<img src="../../images/labinfo/cslab/cpec.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>远程虚拟硬件实验平台建设项目在2017CPEC大会上进行展示</div>
+         
+      </li>
+  </ul>
+</div>
 
 ---
 
@@ -116,89 +129,16 @@ header:
 
 * 丰富的学习资源	
 
-除上述硬件资源之外，研究室还拥有PC机若干，研究人员每人配备最少一台4代i5以上的计算机。研究室还提供FTP,云盘和GIT等通用服务，拥有完善的文档管理和规范，GITLAB上有研究室各类开源项目，研究室拥有丰富的技术书籍资源,可自由借阅。
-
-  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
-  <ul class="am-slides">
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
-         
-      </li>
-  </ul>
-</div>
-
-
-* 精彩的课余生活
-
-研究室设有摄影文化墙,可定期展示研究室成员优秀作品。研究室体育氛围浓厚。定期的方向性研讨，在温馨和谐的大家庭氛围中，产生思想碰撞，展开头脑风暴。研究室还提供年终聚会、HOMEPARTY和小礼物、每年组织春游,秋游活动。丰富的业余文化生活。
-
-  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
-  <ul class="am-slides">
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
-         
-      </li>
-  </ul>
-</div>
+除上述硬件资源之外，研究室还拥有PC机若干，研究人员每人配备最少一台4代i5以上的计算机。研究室使用GitLab进行项目管理，并拥有丰富的技术书籍,定期更新，可自由借阅。
 
 * 专业的科研团队
 
-研究室现有硕士生导师2名，副教授2名，高级工1名以及若干合作企业的指导老师。共培养已毕业研究生XX 毕业去向动向+王列为1 + 222222 + 1+ 任 王 晚两年 1 +吴 5-6，在读13名。参与各类研究的本科生XX。与各领域的公司单位展开了深入合作(包括国防科技大学气象海洋学院,Xilinx,TI,,依元素科技有限公司,德晟科技等)。
+研究室现有硕士生导师2名，副教授2名，高级工程师1名以及若干合作企业的指导老师。共培养已毕业研究生近百名，目前在读研究生13名，参与各类研究的本科生数十名。研究室与各领域的公司单位展开了深入合作(包括国防科技大学气象海洋学院,Xilinx,TI,依元素科技有限公司,德晟科技等)。
 
-  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
-  <ul class="am-slides">
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
-         
-      </li>
-      <li>
-        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
-         
-      </li>
-  </ul>
-</div>
+* 精彩的课余生活
+
+研究室设有摄影文化墙,可定期展示研究室成员优秀作品。每年还会组织年终聚会、HOMEPARTY、春秋游活动等。
+
+
+
 

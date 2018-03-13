@@ -1,7 +1,9 @@
 ---
 layout: page
-title:  联系我们
 permalink: /contact/
+header:
+    title: 联系我们
+    background-color: "#EFC94C;"
 ---
 
 如果您想进一步了解我们团队,或者对加入我们团队有兴趣,请按照下面的联系方式联系我们:

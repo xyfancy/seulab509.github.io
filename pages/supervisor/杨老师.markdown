@@ -1,26 +1,28 @@
 ---
-layout: page
+layout: page-fullwidth
 permalink: /supervisor/yang/
 header: no
 ---
+
+
 
   <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
   <ul class="am-slides">
       <li>
         	<img src="../../images/supervisor/yang/yang.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>威海ACA</div>         
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div></div>         
       </li>
       <li>
-        	<img src="../../images/supervisor/yang/yang.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>威海ACA</div>         
+        	<img src="../../images/supervisor/yang/yang_xilinx.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>参加xilinx产学合作育人项目成果展</div>         
       </li>
       <li>
-        	<img src="../../images/supervisor/yang/yang.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>威海ACA</div>
+        	<img src="../../images/supervisor/yang/yang_mooc.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>录制计算机系统综合课程设计Mooc</div>
       </li>
       <li>
-        	<img src="../../images/supervisor/yang/yang.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>威海ACA</div>     
+        	<img src="../../images/supervisor/yang/yang_q.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div></div>     
       </li>
   </ul>
 </div>
@@ -33,11 +35,30 @@ header: no
 
 ---
 
-* 目录
- {:toc}
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**目录**
+* 目录1
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+### 个人简介
+
+---
+
+1968年出生在湖北省黄石市，1976年就读于南湖小学，并于1981年和1984年分别考入湖北省重点中学黄石二中的初中部和高中部就读。1987年考入位于武汉桂子山上的华中师范大学数学系计算机专业（现在为华中师范大学计算机科学系），1991年所写的本科毕业论文《一种新的多边形裁剪算法的研究》获得湖北省优秀本科生毕业论文，并于同年获得理学学士学位。
+
+1991年考入位于江苏省南京市四牌楼的国家重点高校、百年名校东南大学（原南京工学院）计算机科学与工程系，师从樊开文副研究员和徐宏炳教授攻读计算机系统结构方向硕士研究生，毕业设计期间参与完成的吴江发电厂多微机实时监控与生产管理系统通过省级鉴定，并获得江苏省科技进步4等奖和江苏省优秀软件3等奖。1994年获得工学硕士学位。
+
+1994年硕士毕业后，留校工作，现是东南大学计算机科学与工程学院、软件学院系统结构方向副教授，硕士生导师，国家级计算机实验教学示范中心(东南大学)副主任，中国计算机学会高级会员，中国计算机学会体系结构专委会委员，中国电子学会高级会员，江苏省计算机学会高级会员，江苏省计算机学会嵌入式系统及设备专委会委员，Xilinx outstanding professor。主要从事计算机系统结构、人工智能算法与智能芯片、多核结构与多核并行算法、嵌入式系统软件以及可重构计算等研究。工作至今共教授本专科及研究生课程10余门，在国内外核心期刊发表科研与教学论文60余篇,EI检索10多篇，出版教材7本(其中一本为国家级十一五规划教材，一本获全国电子信息类优秀教材二等奖），教辅书籍1本，主持一项教育部-Intel精品课程，一项江苏省高等教育教学改革研究课题，参与和承担各种科研项目10余项，其中多个项目获得国家、省级鉴定。多次获得省级科学进步奖、优秀教学奖以及学校优秀教学工作奖和校教学成果奖。
 
 
-
+</div>
+</div>
 ### 个人简介
 
 ---
