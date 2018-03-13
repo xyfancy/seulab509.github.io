@@ -2,8 +2,6 @@
 layout: page
 permalink: /courses/io/
 header: no
-image:
-    title: courses/io.png
 ---
 
 ---
