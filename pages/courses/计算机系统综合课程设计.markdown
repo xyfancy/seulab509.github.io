@@ -11,41 +11,30 @@ header: no
 ---
 
 本课程设计是在本科4年学习的基础上，进行的一次综合性的设计实践。本课程的开设时间是在大四的上学期，同学们经过3年多的学习和实践，无论在理论上还是实践上，在硬件上还是软件上，在系统角度还是应用角度都得到了不少的锻炼。在此基础上，本综合设计从系统设计的角度，通过对SOC（片上系统）的硬、软件设计，给学生一次综合的训练的机会。 本课程借助于SoC设计的思想，在国内首创将计算机硬件设计与系统软件设计综合 到一起，强化了学生从系统角度分析问题和综合运用 能力的培养，符合计算机学科本科生 “面向系统，兼顾应用”的培养目标。
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+
+<div data-am-widget="slider" class="am-slider am-slider-c2" data-am-slider='{&quot;directionNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc">远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc">某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc">不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc">OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../../images/courses/system.jpg">
-      <div class="carousel-caption">
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../../images/courses/system.jpg">
-      <div class="carousel-caption">
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="../../images/courses/system.jpg">
-      <div class="carousel-caption">
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 
 了解更多,请访问[课程官方网站](http://wwww.njyangqs.com/xtzhkcsj/Default.aspx)

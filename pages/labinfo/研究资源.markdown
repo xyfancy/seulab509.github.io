@@ -14,48 +14,29 @@ header:
 
 本实验室与Intel公司展开合作，建立了东南大学-Intel多核技术实验室,承担异构多核架构和可重构计算等方面的研究。实验室拥有PowerEdge T430塔式服务器5台，PowerEdge系列刀片服务器2台，可在其上开展多核和众核的研究。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
- 
 </div>
 
 ### 2.人工智能算法与芯片实验室
@@ -64,47 +45,29 @@ header:
 
 本实验室与德晟科技有限公司合作，目前主要研究计算机视觉和深度学习算法以及相关智能芯片，拥有高性能深度学习工作站一台。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 
 ### 3.嵌入式系统实验室
@@ -113,47 +76,29 @@ header:
 
 该实验室还与美国TI公司合作，建立了数字信号处理方案实验室。本实验室拥有近百台嵌入式实验板，其中包括Minisys,Zedboard以及以Xilinx FPGA芯片为核心的实验板,近百套TI公司的嵌入式实验开发平台。同时,还拥有高精度室内定位模块,Intel Real Sense摄像头等各种传感器。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 
 ### 4. 计算机系统综合课程设计实验室
@@ -173,47 +118,29 @@ header:
 
 除上述硬件资源之外，研究室还拥有PC机若干，研究人员每人配备最少一台4代i5以上的计算机。研究室还提供FTP,云盘和GIT等通用服务，拥有完善的文档管理和规范，GITLAB上有研究室各类开源项目，研究室拥有丰富的技术书籍资源,可自由借阅。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 
 
@@ -221,93 +148,57 @@ header:
 
 研究室设有摄影文化墙,可定期展示研究室成员优秀作品。研究室体育氛围浓厚。定期的方向性研讨，在温馨和谐的大家庭氛围中，产生思想碰撞，展开头脑风暴。研究室还提供年终聚会、HOMEPARTY和小礼物、每年组织春游,秋游活动。丰富的业余文化生活。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 
 * 专业的科研团队
 
 研究室现有硕士生导师2名，副教授2名，高级工1名以及若干合作企业的指导老师。共培养已毕业研究生XX 毕业去向动向+王列为1 + 222222 + 1+ 任 王 晚两年 1 +吴 5-6，在读13名。参与各类研究的本科生XX。与各领域的公司单位展开了深入合作(包括国防科技大学气象海洋学院,Xilinx,TI,,依元素科技有限公司,德晟科技等)。
 
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+  <div data-am-widget="slider" class="am-slider am-slider-c3" data-am-slider='{&quot;controlNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/4</div>某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/4</div>不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
 

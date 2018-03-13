@@ -21,45 +21,29 @@ header: no
 * 更加注重实践与创新，增加实践与研讨环节；
 
 * 配套网站提供电子课件和更多的拓展资料
-<div id="demo" class="carousel slide" data-ride="carousel">
- 
-  <!-- 指示符 -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+
+<div data-am-widget="slider" class="am-slider am-slider-c2" data-am-slider='{&quot;directionNav&quot;:false}' >
+  <ul class="am-slides">
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-1.jpg">
+          <div class="am-slider-desc">远方 有一个地方 那里种有我们的梦想</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-2.jpg">
+          <div class="am-slider-desc">某天 也许会相遇 相遇在这个好地方</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-3.jpg">
+          <div class="am-slider-desc">不要太担心 只因为我相信 终会走过这条遥远的道路</div>
+         
+      </li>
+      <li>
+        	<img src="http://s.amazeui.org/media/i/demos/bing-4.jpg">
+          <div class="am-slider-desc">OH PARA PARADISE 是否那么重要 你是否那么地遥远</div>
+         
+      </li>
   </ul>
- 
-  <!-- 轮播图片 -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://static.runoob.com/images/mix/img_fjords_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_nature_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-    <div class="carousel-item">
-      <img src="https://static.runoob.com/images/mix/img_mountains_wide.jpg">
-      <div class="carousel-caption">
-    <h3>第一张图片描述标题</h3>
-    <p>描述文字!</p>
-  </div>
-    </div>
-  </div>
- 
-  <!-- 左右切换按钮 -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
 </div>
+

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 毕业校友去向
 permalink: /graduate/
+header:
+    title: 毕业校友去向
+    background-color: "#EFC94C;"
 ---
 
 毕业校友工作去向，根据地区顺序排列，最后更新2017.6.7。
