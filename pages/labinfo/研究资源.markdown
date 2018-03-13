@@ -45,20 +45,20 @@ header:
   <ul class="am-slides">
       <li>
         	<img src="../../images/labinfo/ailab/name.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/3</div>与德晟科技联合设立的人工智能算法与芯片实验室</div>
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/2</div>与德晟科技联合设立的人工智能算法与芯片实验室</div>
          
       </li>
       <li>
         	<img src="../../images/labinfo/ailab/chat.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>导师正在与团队成员一起讨论算法进展</div>
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/2</div>导师正在与团队成员一起讨论算法进展</div>
          
       </li>
       
-	<li>
-        	<img src="../../images/labinfo/ailab/systemlab.jpg">
+	<!-- <li>
+        	<img src="../../images/labinfo/ailab/res1.jpg">
           <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">3</span>/3</div>初见成效的疲劳检测算法展示</div>
          
-      </li>
+      </li> -->
   </ul>
 </div>
 

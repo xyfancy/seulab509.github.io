@@ -1,0 +1,29 @@
+---
+layout: page
+teaser: ""
+breadcrumb: true
+tags:
+    - 人工智能
+categories:
+    - 人工智能
+header: no
+image:
+    title: "news/2018-03-13/title.jpg"
+    caption: 图为正在进行研讨会的导师和同学们
+date:   2018-03-13 12:00:00
+title:  "研究室积极展开人工智能方面研究，最近在交通疲劳驾驶领域取得有效成果"
+show_meta: false
+description: 与德晟科技联合设立的人工智能算法与芯片实验室建立后，就立刻投入到使用中，研究生与本科生团队密切配合，在计算机视觉与智能交通方面展开研究，最近刚刚在疲劳驾驶领域取得突破性进展。
+---
+
+2017年末，研究室与德晟科技建立的人工智能算法与芯片联合实验室，目前已正式投入使使用。主要的研究方向为计算机视觉和智能交通领域，具体包括了深度学习算法及在疲劳驾驶行为判定和ADAS自动辅助驾驶系统中的应用，双目视觉、图像分割、物体识别、道路、交通标志等算法。实验室现有研究生1名，本科生7名，分为几个小组进行分工合作，目前在疲劳驾驶领域已经取得了有效进展。
+
+对于司机是否处于疲劳驾驶有多种判定方法，本次研究主要集中在通过图像对司机的面部进行识别，包括是否闭眼、是否打哈欠等。现有算法普遍对对光照和人脸朝向敏感，当光线变暗，或者人脸朝向幅度较大时，算法准确度会显著下降。针对这一问题，小组成员经过多次研讨，查阅书籍，制定了改良后的算法，通过多次的实验也验证了该算法在速度和准确度方面都已经优于其他对手的产品。
+
+<video id="video" controls="" preload="none" poster="news/2018-03-13/poster.png">
+  <source id="mp4" src="news/2018-03-13/20180207_155136.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " type="video/mp4">
+</video>
+
+## 相关新闻
+{: .t60 }
+{% include list-posts tag='人工智能' %}
