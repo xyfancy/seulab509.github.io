@@ -1,6 +1,6 @@
 ---
-subheadline: 竞赛获奖
-teaser: "层叠架构多ZYNQ荣子标题获ACA2016唯一特等奖等奖项"
+subheadline: ACA2016
+teaser: ""
 breadcrumb: true
 tags:
     - Zynq
@@ -16,7 +16,6 @@ layout: page
 title:  "层叠架构多ZYNQ荣获ACA2016唯一特等奖等奖项"
 date:   2017-03-6 00:00:00
 show_meta: false
-
 description: 本实验组建的团队经过长时间的研究, 在ACA2016大学生创新竞赛上获得了优良成绩.参赛作品“基于层叠架构多ZYNQ卫星云图快速检索系统的研究与实现”以创新的架构获得评委一致好评，斩获了本次大赛唯一的特等奖；参赛作品“基于快速运算单元的气象水文信息微服务器系统的设计与实现”荣获大赛二等奖。
 ---
 
