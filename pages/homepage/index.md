@@ -2,7 +2,7 @@
 layout: frontpage
 header:
     title: 东南大学计算机系统结构研究室
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    image_fullwidth: homepage/homepage.jpg
 permalink: /index.html
 homepage: true
 ---
