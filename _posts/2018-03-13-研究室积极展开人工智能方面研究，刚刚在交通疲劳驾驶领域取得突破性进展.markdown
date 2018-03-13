@@ -20,6 +20,8 @@ description: 与德晟科技联合设立的人工智能算法与芯片实验室�
 
 对于司机是否处于疲劳驾驶有多种判定方法，本次研究主要集中在通过图像对司机的面部进行识别，包括是否闭眼、是否打哈欠等。现有算法普遍对对光照和人脸朝向敏感，当光线变暗，或者人脸朝向幅度较大时，算法准确度会显著下降。针对这一问题，小组成员经过多次研讨，查阅书籍，制定了改良后的算法，通过多次的实验也验证了该算法在速度和准确度方面都已经优于其他对手的产品。
 
+--- 
+
 <video id="video" controls="" preload="none" poster="news/2018-03-13/poster.png">
   <source id="mp4" src="news/2018-03-13/20180207_155136.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " type="video/mp4">
 </video>
