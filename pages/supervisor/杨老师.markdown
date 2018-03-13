@@ -103,7 +103,7 @@ image:
 #### 代表性成果及学术奖励情况
 ##### 期刊论文
 
-* 杨全胜，翟玉庆;舒华忠，姜龙玉，吕倩，贯通式与虚实结合的计算机系统实践平台建设，计算机教育，2018, No.277(01) 19-24  
+* 杨全胜，翟玉庆，舒华忠，姜龙玉，吕倩，贯通式与虚实结合的计算机系统实践平台建设，计算机教育，2018, No.277(01) 19-24  
 * Yuchang Mo，Farong Zhong，Huawen Liu，Gang Cui，Quansheng Yang Depth-first event ordering in BDD-based fault tree analysis，Computing and informatics，2012.6.1，31（6+）：1401~1416
 * Wang Xiaowei，Wang Kuixing，Yang Quansheng Research and Developmentof Compiler Based on GCC，Recent Advances in Computer Science and InformationEngineering，2012.02.05，3：809~814
 * Yuchang Mo，Farong Zhong，Huawen Liu，Gang Cui，Quansheng Yang Efficient ordering heuristics in BDD-based fault tree analysis，Wiley Journal of Quality and Reliability Engineering International. Under Publication，2012.02.22，29（3）：307~315
