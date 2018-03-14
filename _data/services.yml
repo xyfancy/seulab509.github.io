@@ -1,6 +1,15 @@
-- menu_name: "服务"
+- menu_name: "校外链接"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Xilinx"
+  url: "https://china.xilinx.com/"
+
+- name: "ARM"
+  url: "https://www.arm.com/"
+
+- name: "中国计算机学会"
+  url: "http://history.ccf.org.cn/sites/ccf/index.html"
+
+- name: "依元素科技有限公司"
+  url: "http://www.e-elements.com/cn/index.asp"
+
 

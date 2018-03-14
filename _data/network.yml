@@ -1,22 +1,15 @@
-- menu_name: "友情链接"
+- menu_name: "校内链接"
 
 - name: "东南大学"
   url: "http://www.seu.edu.cn/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
 
 - name: "东南大学计算机学院"
   url: "http://cse.seu.edu.cn/CSE/UI/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
 
-- name: "Xilinx"
-  url: "https://china.xilinx.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "东南大学研究生院"
+  url: "http://seugs.seu.edu.cn/"
 
-- name: "依元素科技有限公司"
-  url: "http://www.e-elements.com/cn/index.asp"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- name: "东南大学研究生招生网"
+  url: "http://yzb.seu.edu.cn/"
+
 
