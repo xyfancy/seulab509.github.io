@@ -3,7 +3,7 @@ layout: page
 permalink: /labinfo/res/
 header:
     title: 研究资源
-    background-color: "#EFC94C;"
+    background-color: "#0086C8;"
 ---
 
 本研究室下辖三个方向实验室和一个课程实验室,分别为：   

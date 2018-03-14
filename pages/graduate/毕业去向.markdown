@@ -3,7 +3,7 @@ layout: page
 permalink: /graduate/
 header:
     title: 就业情况
-    background-color: "#EFC94C;"
+    background-color: "#0086C8;"
 ---
 
 根据不完全统计，研究室各届毕业生的工作去向，根据地区顺序排列，最后更新2017.6.7。

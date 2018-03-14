@@ -3,7 +3,7 @@ layout: page
 permalink: /labinfo/type/
 header:
     title: 研究方向
-    background-color: "#EFC94C;"
+    background-color: "#0086C8;"
 ---
 
 ---

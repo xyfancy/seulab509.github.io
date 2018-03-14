@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-    image_fullwidth: homepage/homepage.jpg
+    image_fullwidth: homepage/homepage.png
 permalink: /index.html
 homepage: true
 ---
