@@ -3,13 +3,15 @@
 - name: "Xilinx"
   url: "https://china.xilinx.com/"
 
+- name: "依元素科技有限公司"
+  url: "http://www.e-elements.com/cn/index.asp"
+
 - name: "ARM"
   url: "https://www.arm.com/"
 
 - name: "中国计算机学会"
   url: "http://history.ccf.org.cn/sites/ccf/index.html"
 
-- name: "依元素科技有限公司"
-  url: "http://www.e-elements.com/cn/index.asp"
+
 
 
