@@ -13,7 +13,7 @@ header:
 
 * 公众号: 微信搜索"**CDPE**"或者扫描二维码
 
-![CDPE](/WebPage/assets/img/CDPE.jpg)
+![CDPE](contact/CDPE.jpg)
 
 
 
