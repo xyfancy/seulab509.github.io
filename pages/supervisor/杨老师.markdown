@@ -10,7 +10,7 @@ header: no
   <ul class="am-slides">
       <li>
         	<img src="../../images/supervisor/yang/yang.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div></div>         
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">1</span>/4</div>参加2017年新加坡亚太地区高校教师大会</div>         
       </li>
       <li>
         	<img src="../../images/supervisor/yang/yang_xilinx.jpg">
@@ -22,7 +22,7 @@ header: no
       </li>
       <li>
         	<img src="../../images/supervisor/yang/yang_q.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div></div>     
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">4</span>/4</div>在第一届中国计算机实践教育学术会议上做报告</div>     
       </li>
   </ul>
 </div>
