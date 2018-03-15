@@ -22,8 +22,8 @@ header:
          
       </li>
       <li>
-        	<img src="../../images/labinfo/calab/intel.jpg">
-          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>东南大学-Intel多核技术联合实验室</div>
+        	<img src="../../images/labinfo/calab/microServer.jpg">
+          <div class="am-slider-desc"><div class="am-slider-counter"><span class="am-active">2</span>/3</div>基于Zynq的CPU-FGPA微服务器</div>
          
       </li>
       
