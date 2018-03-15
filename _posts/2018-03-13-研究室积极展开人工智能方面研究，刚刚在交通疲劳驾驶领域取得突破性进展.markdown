@@ -22,9 +22,7 @@ description: 与德晟科技联合设立的人工智能算法与芯片实验室�
 
 --- 
 
-<video id="video" controls="" preload="none" poster="news/2018-03-13/poster.png">
-  <source id="mp4" src="news/2018-03-13/20180207_155136.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " type="video/mp4">
-</video>
+<video id="sampleMovie" src="https://seulab509.github.io/images/news/2018-03-13/20180207_155136.mp4" controls></video> 
 
 ## 相关新闻
 {: .t60 }
