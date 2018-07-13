@@ -42,7 +42,7 @@
   url: "/activity/"
   dropdown:
   - title: "2018研教班"
-  url: "/activity/"
+    url: "/activity/"
    
 - title: 联系我们
   side: left
