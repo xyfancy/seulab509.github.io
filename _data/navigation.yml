@@ -40,7 +40,10 @@
 - title: 最新活动
   side: left
   url: "/activity/"
-
+  dropdown:
+  - title: "2018研教班"
+  url: "/activity/"
+   
 - title: 联系我们
   side: left
   url: "/contact/"
