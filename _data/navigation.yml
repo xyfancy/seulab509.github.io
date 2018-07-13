@@ -37,9 +37,9 @@
   side: left
   url: "/graduate/"
 
-#- title: 缘来是你
-#  side: left
-#  url: "/life/"
+- title: 最新活动
+  side: left
+  url: "/activity/"
 
 - title: 联系我们
   side: left
