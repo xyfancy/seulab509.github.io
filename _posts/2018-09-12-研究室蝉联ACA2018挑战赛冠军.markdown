@@ -2,7 +2,6 @@
 teaser: ""
 breadcrumb: true
 tags:
-    - Zynq
     - ACA
 categories:
     - 竞赛情况
@@ -27,4 +26,4 @@ CCF TCARCH挑战赛（计算机体系结构挑战赛）是中国计算机学会�
 
 ## 相关新闻
 {: .t60 }
-{% include list-posts tag='Zynq' %}
+{% include list-posts tag='ACA' %}
